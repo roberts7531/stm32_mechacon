@@ -1,0 +1,5 @@
+kb5 pc4    CS
+7   pb0    SCK
+9   pb2    MISO
+11  pb11   MOSI
+13  pb13   IRQ
